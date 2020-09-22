@@ -1,0 +1,9 @@
+RESPUESTAS.
+1- Se crea un clousure en: 'var size8= cambiarDimensionFuente(8);
+
+2- Se establece dentro de la funcion setClicks: 'document.getElementById('fuente-8').onclick=size8;
+
+4- La forma correcta de escribir es: document.getElementById('fuente-8').onclick = size8;. 
+Porque ya esta instanciado anteriormente en cambiarDimensionFuente(8);.
+
+5- Debemos escribir 'size8();'. 
